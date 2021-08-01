@@ -25944,7 +25944,7 @@ Copyright (c) 2014 Daniel Eden
     padding: 45px;
     overflow-x: hidden;
     overflow-y: auto;
-    background-color: rgb(105 18 34);
+    background-color: #3fffe74d;
     color: white !important;
 }
 
@@ -26352,7 +26352,7 @@ Copyright (c) 2014 Daniel Eden
     left: 45%;
     left: calc(50% - 142.5px);
     z-index: 11;
-    background-color: #0db39e4d;
+    background-color: #3fffe74d;
     color: white;
     border-radius: 3px;
     padding: 10px;
@@ -26731,7 +26731,7 @@ Copyright (c) 2014 Daniel Eden
 #editor #simple-shapes #rect>.css-shape {
     width: 35px;
     height: 25px;
-    background: #bcaaa4;
+    background: #ffffff;
 }
 
 #editor #simple-shapes #triangle {
@@ -26743,7 +26743,7 @@ Copyright (c) 2014 Daniel Eden
     height: 0;
     border-left: 18px solid transparent;
     border-right: 18px solid transparent;
-    border-bottom: 33px solid #bcaaa4;
+    border-bottom: 33px solid #ffffff;
 }
 
 #editor #simple-shapes #ellipse {
@@ -26753,7 +26753,7 @@ Copyright (c) 2014 Daniel Eden
 #editor #simple-shapes #ellipse>.css-shape {
     width: 40px;
     height: 20px;
-    background: #bcaaa4;
+    background: #ffffff;
     border-radius: 50%;
 }
 
@@ -26764,7 +26764,7 @@ Copyright (c) 2014 Daniel Eden
 #editor #simple-shapes #polygon>.css-shape {
     width: 24px;
     height: 13.75px;
-    background: #bcaaa4;
+    background: #ffffff;
     position: relative;
 }
 
@@ -27401,7 +27401,7 @@ Copyright (c) 2014 Daniel Eden
     width: 380px;
     right: 10px;
     bottom: 8px;
-    background-color: #fff;
+    background-color: #015b97b3;
     border-radius: 3px;
     padding: 0 8px 0 12px;
     font-weight: 700;
